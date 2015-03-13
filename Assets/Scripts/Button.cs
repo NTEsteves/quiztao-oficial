@@ -20,7 +20,7 @@ public class Button : MonoBehaviour {
 
 	void OnMouseOver() 
 	{
-		renderer.sprite = mouseOverSprite;
+
 	}
 
 	void OnMouseExit()
